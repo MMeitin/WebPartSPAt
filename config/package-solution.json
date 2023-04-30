@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "repaso-sp-client-side-solution",
+    "id": "81675e83-207d-4d23-a127-43882e50e930",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "RepasoSP description"
+      },
+      "longDescription": {
+        "default": "RepasoSP description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "repaso-sp Feature",
+        "description": "The feature that activates elements of the repaso-sp solution.",
+        "id": "295a57e6-8300-4bb1-89f3-2f575e6004f3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/repaso-sp.sppkg"
+  }
+}

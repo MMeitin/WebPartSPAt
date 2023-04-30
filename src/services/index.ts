@@ -1,0 +1,1 @@
+export { SPService } from './spservice';

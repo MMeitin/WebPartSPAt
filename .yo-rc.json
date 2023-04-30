@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "repaso-sp",
+    "libraryId": "81675e83-207d-4d23-a127-43882e50e930",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "RepasoSP",
+    "solutionShortDescription": "RepasoSP description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
